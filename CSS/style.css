@@ -1,0 +1,140 @@
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #7a7aff;
+}
+
+nav ul {
+    overflow: auto;
+    float: right;
+    margin-right: 20px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 5px;
+    line-height: 55px;
+}
+
+nav ul li :hover {
+    color: red;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.post-img {
+    max-width: 100%;
+    width: 1380px;
+    height: 550px;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 600px;
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: black;
+}
+
+.section-1 {
+    max-width: 100%;
+    background-color: rgb(180, 180, 180);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.section-4 {
+    background-color: rgb(180, 180, 180);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.section-6 {
+    background-color: rgb(180, 180, 180);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.div-mom {
+    display: flex;
+}
+
+.container-1 {
+    max-width: 50%;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.abt-img {
+    max-width: 100%;
+    width: 1380px;
+    height: 350px;
+}
+
+table {
+    position: relative;
+}
+
+.ult {
+    text-align: center;
+    list-style: none;
+}
+
+form {
+    align-content: center;
+    margin: 2%;
+    margin-left: 550px;
+}
+
+.input {
+    background-color: rgb(206, 206, 206);
+}
+
+.vs-img {
+    max-width: 70%;
+    margin-left: 85px;
+    margin-top: 25px;
+}
